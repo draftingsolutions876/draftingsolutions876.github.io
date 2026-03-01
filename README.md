@@ -1,12 +1,13 @@
-# Andrew Samuda's Portfolio 🎨
+# Andrew Samuda's Portfolio 
 
 Welcome to my online portfolio! Here you'll find a collection of my past work, sketches, and projects.
 
 ---
 
 ## About Me
-Hi, I'm **Andrew**, an artist passionate about drawing and visual storytelling.  
-I enjoy creating illustrations, concept art, and designs for various projects.
+Hi, I'm **Andrew**, an experienced Civil Engineer and Draftsman with several years of experience in designing 
+and drafting precise, detailed engineering and architectural plans. I specialiaze in Revit, Civil 3D, and AutoCAD
+delivering high quality drawings that meet project specifications and deadlines.
 
 ---
 
@@ -24,25 +25,21 @@ Here are some of my recent works:
 - **Project 3** – [View PDF](./drawings/project3.pdf)  
   Short description of the project.
 
-> You can add as many projects as you want. PDFs, images, or links to external websites all work!
 
 ---
 
 ## Skills
-- Illustration & Sketching ✏️  
-- Digital Painting 🖌️  
-- Concept Art & Design 💡  
-- Adobe Photoshop / Illustrator / Procreate
+- Autodesk Revit 
+- Autodesk Civil 3D  
+- Autodesk AutoCAD  
+- Autodesk Robot Structural Analysis
 
 ---
 
 ## Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- Instagram: [@yourhandle](https://www.instagram.com/yourhandle)
+- Email: [draftingsolutions876@gmail.com](mailto:your.email@example.com)  
 
 ---
 
 ## Notes
-- All works are © Andrew Samuda.  
 - Feel free to browse, download, or contact me for collaborations.

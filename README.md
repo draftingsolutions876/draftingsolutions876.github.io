@@ -22,7 +22,7 @@ Here are some of my recent works:
 - **3 Bedroom MEP Project** – [View PDF](/portfolio/3 Bedroom MEP Project.pdf)  
   Residential project illustrating HVAC, plumbing, and electrrical plans.
 
-- **Residential Canopy Project** – [View PDF](./drawings/project3.pdf)  
+- **Residential Canopy Project** – [View PDF](/portfolio/Steel Canopy.pdf)  
   Plans and fabrication shop drawings for a small steel canopy.
 
 

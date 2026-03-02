@@ -16,7 +16,7 @@ high-quality drawings that align with project requirements, standards, and timel
 ### Projects & Drawings
 Here are some of my recent works:
 
-- **2 Bedroom Architectual Project** – [View PDF](./portfolio/2 bedroom house.pdf)  
+- **2 Bedroom Architectual Project** – [View PDF](/portfolio/2 bedroom house.pdf)  
   Simple illustration of a 2-bedroom house with 3D views.
 
 - **3 Bedroom MEP Project** – [View PDF](/portfolio/3 Bedroom MEP Project.pdf)  

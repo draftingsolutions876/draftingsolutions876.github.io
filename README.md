@@ -25,7 +25,7 @@ Here are some of my recent works:
   Residential project illustrating HVAC, plumbing, and electrrical plans.
 
 - **Residential Canopy Project** – [View PDF](/portfolio/Steel Canopy.pdf)  
-  <img src="">
+  <img src="portfolio/canopy.jpg">
   Plans and fabrication shop drawings for a small steel canopy.
 
 

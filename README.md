@@ -16,7 +16,7 @@ high-quality drawings that align with project requirements, standards, and timel
 ### Projects & Drawings
 Here are some of my recent works:
 
-- <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+ <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1;">
     <img src="portfolio/2bedroom.jpg" alt="2 Bedroom House 3D View" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;" />
   </div>
@@ -24,7 +24,6 @@ Here are some of my recent works:
     <h3 style="margin-top: 0;">Project 1 — <a href="portfolio/2bedroom.pdf">View PDF</a></h3>
     <p>Simple illustration of a 2-bedroom house with 3D views. This design focuses on maximizing space and providing a modern aesthetic for small-scale residential living.</p>
   </div>
-</div>
 
 - **Project 2** – [View PDF](./drawings/project2.pdf)  
   Short description of the project.

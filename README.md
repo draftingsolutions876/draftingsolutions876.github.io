@@ -17,13 +17,13 @@ high-quality drawings that align with project requirements, standards, and timel
 Here are some of my recent works:
 
 - **2 Bedroom Architectual Project** – [View PDF](./drawings/project2.pdf)  
-  Short description of the project.
+  Simple illustration of a 2-bedroom house with 3D views.
 
 - **3 Bedroom MEP Project** – [View PDF](./drawings/project3.pdf)  
-  Short description of the project.
+  Residential project illustrating HVAC, plumbing, and electrrical plans.
 
-- **Residential Steel Canopy Project** – [View PDF](./drawings/project3.pdf)  
-  Short description of the project.
+- **Residential Canopy Project** – [View PDF](./drawings/project3.pdf)  
+  Plans and fabrication shop drawings for a small steel canopy.
 
 
 ---

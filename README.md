@@ -19,7 +19,7 @@ Here are some of my recent works:
 - **2 Bedroom Architectual Project** – [View PDF](./portfolio/2 bedroom house.pdf)  
   Simple illustration of a 2-bedroom house with 3D views.
 
-- **3 Bedroom MEP Project** – [View PDF](./drawings/project3.pdf)  
+- **3 Bedroom MEP Project** – [View PDF](/portfolio/3 Bedroom MEP Project.pdf)  
   Residential project illustrating HVAC, plumbing, and electrrical plans.
 
 - **Residential Canopy Project** – [View PDF](./drawings/project3.pdf)  

@@ -16,7 +16,8 @@ high-quality drawings that align with project requirements, standards, and timel
 ### Projects & Drawings
 Here are some of my recent works:
 
-- **Project 1** – [View PDF](portfolio/2 bedroom house.pdf)  
+- **Project 1** – [View PDF](portfolio/2 bedroom house.pdf)
+    <img src="portfolio/2bedroom.jpg" alt="2 Bedroom House 3D View" width="500" />
   Simple illustration of a 2bedroom house with 3d views.
 
 - **Project 2** – [View PDF](./drawings/project2.pdf)  

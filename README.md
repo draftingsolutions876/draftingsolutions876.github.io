@@ -16,7 +16,7 @@ delivering high quality drawings that meet project specifications and deadlines.
 ### Projects & Drawings
 Here are some of my recent works:
 
-- **Project 1** – [View PDF](_layouts/2 bedroom house.pdf)  
+- **Project 1** – [View PDF](portfolio/2 bedroom house.pdf)  
   Simple illustration of a 2bedroom house with 3d views.
 
 - **Project 2** – [View PDF](./drawings/project2.pdf)  

@@ -21,10 +21,12 @@ Here are some of my recent works:
 
   Simple illustration of a 2-bedroom house with 3D views.
 
+
 - **3 Bedroom MEP Project** – [View PDF](/portfolio/3 Bedroom MEP Project.pdf)  
   <img src="portfolio/mep.jpg">
 
   Residential project illustrating HVAC, plumbing, and electrrical plans.
+
 
 - **Residential Canopy Project** – [View PDF](/portfolio/Steel Canopy.pdf)  
   <img src="portfolio/canopy.jpg">

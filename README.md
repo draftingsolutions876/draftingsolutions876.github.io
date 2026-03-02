@@ -6,8 +6,8 @@ Welcome to my online portfolio! Here you'll find a collection of my past work, s
 
 ## About Me
 Hi, I'm **Andrew**, an experienced Civil Engineer and Draftsman with several years of experience in designing 
-and drafting precise, detailed engineering and architectural plans. I specialiaze in Revit, Civil 3D, and AutoCAD
-delivering high quality drawings that meet project specifications and deadlines.
+and drafting precise, detailed engineering and architectural plans. I am committed to delivering accurate, 
+high-quality drawings that align with project requirements, standards, and timelines.
 
 ---
 

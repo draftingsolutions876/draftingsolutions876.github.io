@@ -46,7 +46,7 @@ Here are some of my recent works:
 
 ## Contact Me
 - Email: [draftingsolutions876@gmail.com](mailto:your.email@example.com)
-- LinkedIn: https://www.linkedin.com/in/andrew-samuda-96840727b/  
+- LinkedIn: (https://www.linkedin.com/in/andrew-samuda-96840727b/) 
 
 ---
 

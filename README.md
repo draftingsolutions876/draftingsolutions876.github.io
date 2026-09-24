@@ -1,54 +1,50 @@
-# Andrew Samuda's Portfolio 
+# Drafting Solutions
 
-Welcome to my online portfolio! Here you'll find a collection of my past work, sketches, and projects.
-
----
-
-## About Me
-Hi, I'm **Andrew**, an experienced Civil Engineer and Draftsman with several years of experience in designing 
-and drafting precise, detailed engineering and architectural plans. I am committed to delivering accurate, 
-high-quality drawings that align with project requirements, standards, and timelines.
+Civil engineering and technical drafting services based in Jamaica. This repository hosts the Drafting Solutions portfolio website.
 
 ---
 
-## My Work
+## About
+Drafting Solutions designs and drafts precise, detailed engineering and architectural plans. We are committed to
+delivering accurate, high-quality drawings that align with project requirements, standards, and timelines.
 
-### Projects & Drawings
-Here are some of my recent works:
+---
 
-- **2 Bedroom Architectual Project** – [View PDF](/portfolio/2 bedroom house.pdf)  
+## Selected Work
+
+- **2 Bedroom Architectural Project** – [View PDF](portfolio/2-bedroom-house.pdf)
   <img src="portfolio/2bedroom.jpg">
 
   Simple illustration of a 2-bedroom house with 3D views.
 
 
-- **3 Bedroom MEP Project** – [View PDF](/portfolio/3 Bedroom MEP Project.pdf)  
+- **3 Bedroom MEP Project** – [View PDF](portfolio/3-Bedroom-MEP-Project.pdf)
   <img src="portfolio/mep.jpg">
 
-  Residential project illustrating HVAC, plumbing, and electrrical plans.
+  Residential project illustrating HVAC, plumbing, and electrical plans.
 
 
-- **Residential Canopy Project** – [View PDF](/portfolio/Steel Canopy.pdf)  
+- **Residential Canopy Project** – [View PDF](portfolio/steel-canopy.pdf)
   <img src="portfolio/canopy.jpg">
 
   Plans and fabrication shop drawings for a small steel canopy.
 
 
+- **Chudleigh Road Profiles** – [View PDF](portfolio/chudleigh-road-profiles.pdf)
+  <img src="portfolio/chudleigh.jpg">
+
+  Longitudinal profiles prepared to support road design and site coordination.
+
 ---
 
-## Skills
-- Autodesk Revit 
-- Autodesk Civil 3D  
-- Autodesk AutoCAD  
+## Software
+- Autodesk Revit
+- Autodesk Civil 3D
+- Autodesk AutoCAD
 - Autodesk Robot Structural Analysis
 
 ---
 
-## Contact Me
+## Contact
 - Email: [draftingsolutions876@gmail.com](mailto:draftingsolutions876@gmail.com)
-- LinkedIn: <a href="https://www.linkedin.com/in/andrew-samuda-96840727b/" target="_blank">Andrew Samuda</a>
-
----
-
-## Notes
-- Feel free to browse, download, or contact me for collaborations.
+- Tel: 876-817-3220
